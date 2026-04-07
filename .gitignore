@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Dataset (Galaxy Zoo)
-data/images_gz2/
+data/
 
 # Modelos entrenados
 models/
