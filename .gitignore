@@ -206,12 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Dataset (Galaxy Zoo)
-data/images_gz2/
+# Proyecto local
+venv/
+data/
 
-# Modelos entrenados
-models/
-
-# Outputs de entrenamiento
-outputs/
-runs/
+# Jupyter
+.ipynb_checkpoints/
