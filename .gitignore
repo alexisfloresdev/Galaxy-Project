@@ -206,9 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Proyecto local
-venv/
-data/
-
-# Jupyter
+/data/
+/venv/
 .ipynb_checkpoints/
+__pycache__/
